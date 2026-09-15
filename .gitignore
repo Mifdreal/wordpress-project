@@ -1,0 +1,6 @@
+logs/
+*.swp
+*.tmp
+*~
+*.tar.gz
+
